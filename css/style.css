@@ -1104,3 +1104,8 @@ Media queries
 		margin-bottom: 30px;
 	}
 }
+
+.boxed-grey {
+	background: #eee;
+	padding: 20px;
+}
