@@ -334,25 +334,25 @@ section.section {
 ============================= */
 
 #parallax1{	
-	background-image: url(../img/parallax/img_007.jpg);
+	background-image: url(../img/parallax/img_007.png);
 }
 #parallax2{	
-	background-image: url(../img/parallax/img4.jpg);
+	background-image: url(../img/parallax/img4.png);
 }
 #parallax3{	
-	background-image: url(../img/parallax/img_005.jpg);
+	background-image: url(../img/parallax/img_005.png);
 }
 #parallax4{	
-	background-image: url(../img/parallax/img_003.jpg);
+	background-image: url(../img/parallax/img_003.png);
 }
 #parallax5{	
-	background-image: url(../img/parallax/img_004.jpg);
+	background-image: url(../img/parallax/img_004.png);
 }
 #parallax6{	
-	background-image: url(../img/parallax/img_006.jpg);
+	background-image: url(../img/parallax/img_006.png);
 }
 #testimonials{	
-	background-image: url(../img/parallax/parallax001.jpg);
+	background-image: url(../img/parallax/parallax001.png);
 }
 /*===========================
   --- Header & menu ----
@@ -447,7 +447,7 @@ h1 a.navbar-brand {
 section.featured {
 	padding: 200px 0 60px;
 	/*background: #4285F4;*/
-	background-image: url(../img/topo.jpg);
+	background-image: url(../img/topo.png);
 	color: #fdfdfd;
 }
 
