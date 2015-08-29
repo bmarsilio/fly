@@ -334,25 +334,25 @@ section.section {
 ============================= */
 
 #parallax1{	
-	background-image: url(../img/parallax/img_007.png);
+	background-image: url(../img/parallax/img_007.jpg);
 }
 #parallax2{	
-	background-image: url(../img/parallax/img4.png);
+	background-image: url(../img/parallax/img4.jpg);
 }
 #parallax3{	
-	background-image: url(../img/parallax/img_005.png);
+	background-image: url(../img/parallax/img_005.jpg);
 }
 #parallax4{	
-	background-image: url(../img/parallax/img_003.png);
+	background-image: url(../img/parallax/img_003.jpg);
 }
 #parallax5{	
-	background-image: url(../img/parallax/img_004.png);
+	background-image: url(../img/parallax/img_004.jpg);
 }
 #parallax6{	
-	background-image: url(../img/parallax/img_006.png);
+	background-image: url(../img/parallax/img_006.jpg);
 }
 #testimonials{	
-	background-image: url(../img/parallax/parallax001.png);
+	background-image: url(../img/parallax/parallax001.jpg);
 }
 /*===========================
   --- Header & menu ----
@@ -447,7 +447,7 @@ h1 a.navbar-brand {
 section.featured {
 	padding: 200px 0 60px;
 	/*background: #4285F4;*/
-	background-image: url(../img/topo.png);
+	background-image: url(../img/topo.jpg);
 	color: #fdfdfd;
 }
 
@@ -511,12 +511,12 @@ section.featured.inner {
 
 .flex-direction-nav .flex-next {
 	right: -70px;
-	background: url(../img/arrow_large_right.png) no-repeat top left;
+	background: url(../img/arrow_large_right.jpg) no-repeat top left;
 }
 
 .flex-direction-nav .flex-prev {
 	left: -70px;
-	background: url(../img/arrow_large_left.png) no-repeat top left;
+	background: url(../img/arrow_large_left.jpg) no-repeat top left;
 }
 
 .flex-direction-nav a.flex-next:before {
@@ -542,13 +542,13 @@ section.featured.inner {
 .tp-leftarrow.default {
 	width: 49px !important;
 	height: 98px !important;
-	background: url(../img/arrow_small_left.png) no-Repeat top left;
+	background: url(../img/arrow_small_left.jpg) no-Repeat top left;
 }
 
 .tp-rightarrow.default {
 	width: 49px !important;
 	height: 98px !important;
-	background: url(../img/arrow_small_right.png) no-Repeat top left;
+	background: url(../img/arrow_small_right.jpg) no-Repeat top left;
 }
 
 .fullwidthbanner-container {
@@ -565,7 +565,7 @@ section.featured.inner {
 }
 
 .tp-bullets.simplebullets.round .bullet {
-	background: url(../img/bullets-new.png) no-repeat top left;
+	background: url(../img/bullets-new.jpg) no-repeat top left;
 }  
 
 .tp-caption.large_bold_white {
