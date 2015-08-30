@@ -1109,3 +1109,24 @@ Media queries
 	background: #eee;
 	padding: 20px;
 }
+
+.a-chave {
+	background: #3A863E;
+	color: whitesmoke;
+	padding: 10px;
+	text-decoration:none;
+}
+
+.a-chave:visited {
+	text-decoration:none;
+}
+
+.a-chave:active {
+	text-decoration: none;
+}
+
+video {
+	width:100%;
+	max-width:500px;
+	height:auto;
+}
