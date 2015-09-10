@@ -665,12 +665,22 @@
             }]
         };
 
+        var myLatLng = {lat: -29.1802368, lng: -51.2132388};
+
+
+
         // Get the HTML DOM element that will contain your map
         // We are using a div with id="map" seen below in the <body>
         var mapElement = document.getElementById('map');
 
         // Create the Google Map using out element and options defined above
         var map = new google.maps.Map(mapElement, mapOptions);
+
+        var marker = new google.maps.Marker({
+            position: myLatLng,
+            map: map,
+            title: 'Fly Padel e Squash'
+        });
     }
 
     $(document).ready(function(){
